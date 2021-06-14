@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerService\\Common\\Common.csproj",
+      "projectUniqueName": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerServiceGit\\Common\\Common.csproj",
       "projectName": "Common",
-      "projectPath": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerService\\Common\\Common.csproj",
+      "projectPath": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerServiceGit\\Common\\Common.csproj",
       "packagesPath": "C:\\Users\\Hannan-PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerService\\Common\\obj\\",
+      "outputPath": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerServiceGit\\Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -61,16 +61,6 @@ namespace DataConsumer_Project
 
         protected override async Task ExecuteAsync(CancellationToken cancellationToken)
         {
-
-            //Log.Logger = new LoggerConfiguration()
-            //.Enrich.FromLogContext()
-            //.WriteTo.Console(Serilog.Events.LogEventLevel.Information, $"Project started at {DateTime.Now}.")
-            //.WriteTo.File(new RenderedCompactJsonFormatter(), "/logs/log.json")
-            //.WriteTo.Seq(_configuration["SeqConfig:SEQ_URL"])
-            //.CreateLogger();
-
-            //Log.Information("Project started at {@Time}.", DateTime.Now);
-
             _log.Information($"Project started at {DateTime.Now}");
 
             while (!cancellationToken.IsCancellationRequested)

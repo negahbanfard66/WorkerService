@@ -5825,11 +5825,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerService\\DataConsumer-Project\\DataConsumer-Project.csproj",
+      "projectUniqueName": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerServiceGit\\DataConsumer-Project\\DataConsumer-Project.csproj",
       "projectName": "DataConsumer-Project",
-      "projectPath": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerService\\DataConsumer-Project\\DataConsumer-Project.csproj",
+      "projectPath": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerServiceGit\\DataConsumer-Project\\DataConsumer-Project.csproj",
       "packagesPath": "C:\\Users\\Hannan-PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerService\\DataConsumer-Project\\obj\\",
+      "outputPath": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerServiceGit\\DataConsumer-Project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5850,14 +5850,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerService\\Common\\Common.csproj": {
-              "projectPath": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerService\\Common\\Common.csproj"
+            "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerServiceGit\\Common\\Common.csproj": {
+              "projectPath": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerServiceGit\\Common\\Common.csproj"
             },
-            "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerService\\Dapper.Infrastructure\\Dapper.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerService\\Dapper.Infrastructure\\Dapper.Infrastructure.csproj"
+            "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerServiceGit\\Dapper.Infrastructure\\Dapper.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerServiceGit\\Dapper.Infrastructure\\Dapper.Infrastructure.csproj"
             },
-            "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerService\\Redis.Infrastructure\\Redis.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerService\\Redis.Infrastructure\\Redis.Infrastructure.csproj"
+            "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerServiceGit\\Redis.Infrastructure\\Redis.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerServiceGit\\Redis.Infrastructure\\Redis.Infrastructure.csproj"
             }
           }
         }

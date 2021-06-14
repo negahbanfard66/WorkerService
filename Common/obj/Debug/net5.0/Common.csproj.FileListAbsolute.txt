@@ -21,3 +21,15 @@ C:\Users\Hannan-PC\Source\Repos\WorkerService\Common\obj\Debug\net5.0\Common.csp
 C:\Users\Hannan-PC\Source\Repos\WorkerService\Common\obj\Debug\net5.0\Common.dll
 C:\Users\Hannan-PC\Source\Repos\WorkerService\Common\obj\Debug\net5.0\ref\Common.dll
 C:\Users\Hannan-PC\Source\Repos\WorkerService\Common\obj\Debug\net5.0\Common.pdb
+C:\Users\Hannan-PC\Source\Repos\WorkerServiceGit\Common\bin\Debug\net5.0\Common.deps.json
+C:\Users\Hannan-PC\Source\Repos\WorkerServiceGit\Common\bin\Debug\net5.0\Common.dll
+C:\Users\Hannan-PC\Source\Repos\WorkerServiceGit\Common\bin\Debug\net5.0\ref\Common.dll
+C:\Users\Hannan-PC\Source\Repos\WorkerServiceGit\Common\bin\Debug\net5.0\Common.pdb
+C:\Users\Hannan-PC\Source\Repos\WorkerServiceGit\Common\obj\Debug\net5.0\Common.csproj.AssemblyReference.cache
+C:\Users\Hannan-PC\Source\Repos\WorkerServiceGit\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hannan-PC\Source\Repos\WorkerServiceGit\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+C:\Users\Hannan-PC\Source\Repos\WorkerServiceGit\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+C:\Users\Hannan-PC\Source\Repos\WorkerServiceGit\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Hannan-PC\Source\Repos\WorkerServiceGit\Common\obj\Debug\net5.0\Common.dll
+C:\Users\Hannan-PC\Source\Repos\WorkerServiceGit\Common\obj\Debug\net5.0\ref\Common.dll
+C:\Users\Hannan-PC\Source\Repos\WorkerServiceGit\Common\obj\Debug\net5.0\Common.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerService\\Data.Entity\\Data.Entity.csproj": {}
+    "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerServiceGit\\Data.Entity\\Data.Entity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerService\\Data.Entity\\Data.Entity.csproj": {
+    "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerServiceGit\\Data.Entity\\Data.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerService\\Data.Entity\\Data.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerServiceGit\\Data.Entity\\Data.Entity.csproj",
         "projectName": "Data.Entity",
-        "projectPath": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerService\\Data.Entity\\Data.Entity.csproj",
+        "projectPath": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerServiceGit\\Data.Entity\\Data.Entity.csproj",
         "packagesPath": "C:\\Users\\Hannan-PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerService\\Data.Entity\\obj\\",
+        "outputPath": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerServiceGit\\Data.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HFdU54NZw7hDXcm2OXF5Hg1r+be7G9TbD1ZaVPlDtrAlcdw+VVC/ILhy2g1yaJI03ixF+8wKFSSTyfjvlyrkww==",
+  "dgSpecHash": "czlknJa0zjPd59AbsvECQFvL9IdW/ERHsavWMeY0StFwiDCdnNHdfgVwKOuA0Eu03uSgefSdKySdhnaCyIGN5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerService\\Dapper.Infrastructure\\Dapper.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerServiceGit\\Dapper.Infrastructure\\Dapper.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hannan-PC\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -32,3 +32,15 @@ C:\Users\Hannan-PC\Source\Repos\WorkerService\Data.Entity\obj\Debug\net5.0\Data.
 C:\Users\Hannan-PC\Source\Repos\WorkerService\Data.Entity\obj\Debug\net5.0\Data.Entity.dll
 C:\Users\Hannan-PC\Source\Repos\WorkerService\Data.Entity\obj\Debug\net5.0\ref\Data.Entity.dll
 C:\Users\Hannan-PC\Source\Repos\WorkerService\Data.Entity\obj\Debug\net5.0\Data.Entity.pdb
+C:\Users\Hannan-PC\Source\Repos\WorkerServiceGit\Data.Entity\bin\Debug\net5.0\Data.Entity.deps.json
+C:\Users\Hannan-PC\Source\Repos\WorkerServiceGit\Data.Entity\bin\Debug\net5.0\Data.Entity.dll
+C:\Users\Hannan-PC\Source\Repos\WorkerServiceGit\Data.Entity\bin\Debug\net5.0\ref\Data.Entity.dll
+C:\Users\Hannan-PC\Source\Repos\WorkerServiceGit\Data.Entity\bin\Debug\net5.0\Data.Entity.pdb
+C:\Users\Hannan-PC\Source\Repos\WorkerServiceGit\Data.Entity\obj\Debug\net5.0\Data.Entity.csproj.AssemblyReference.cache
+C:\Users\Hannan-PC\Source\Repos\WorkerServiceGit\Data.Entity\obj\Debug\net5.0\Data.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hannan-PC\Source\Repos\WorkerServiceGit\Data.Entity\obj\Debug\net5.0\Data.Entity.AssemblyInfoInputs.cache
+C:\Users\Hannan-PC\Source\Repos\WorkerServiceGit\Data.Entity\obj\Debug\net5.0\Data.Entity.AssemblyInfo.cs
+C:\Users\Hannan-PC\Source\Repos\WorkerServiceGit\Data.Entity\obj\Debug\net5.0\Data.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Hannan-PC\Source\Repos\WorkerServiceGit\Data.Entity\obj\Debug\net5.0\Data.Entity.dll
+C:\Users\Hannan-PC\Source\Repos\WorkerServiceGit\Data.Entity\obj\Debug\net5.0\ref\Data.Entity.dll
+C:\Users\Hannan-PC\Source\Repos\WorkerServiceGit\Data.Entity\obj\Debug\net5.0\Data.Entity.pdb

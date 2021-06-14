@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZFCyMq9RubBzm+NJfgZf/EjfSeDix6q7hOxu3CFcnT1kKxZhm7jdz874BHhECO6kNB+3lOdtRQXgLuBAUaLiBw==",
+  "dgSpecHash": "iEvCCxz4DY1jG+PvWwvV1BkLKt6BKMD+yiaJfMbQJaLjxtTbh1fe47hYBPUf9nPD14rQ0dAnSkLaGso493qwDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerService\\Redis.Infrastructure\\Redis.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerServiceGit\\Redis.Infrastructure\\Redis.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hannan-PC\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Hannan-PC\\.nuget\\packages\\microsoft.extensions.caching.stackexchangeredis\\5.0.1\\microsoft.extensions.caching.stackexchangeredis.5.0.1.nupkg.sha512",

@@ -1689,11 +1689,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerService\\Dapper.Infrastructure\\Dapper.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerServiceGit\\Dapper.Infrastructure\\Dapper.Infrastructure.csproj",
       "projectName": "Dapper.Infrastructure",
-      "projectPath": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerService\\Dapper.Infrastructure\\Dapper.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerServiceGit\\Dapper.Infrastructure\\Dapper.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Hannan-PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerService\\Dapper.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerServiceGit\\Dapper.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1714,14 +1714,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerService\\Common\\Common.csproj": {
-              "projectPath": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerService\\Common\\Common.csproj"
+            "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerServiceGit\\Common\\Common.csproj": {
+              "projectPath": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerServiceGit\\Common\\Common.csproj"
             },
-            "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerService\\Data.Entity\\Data.Entity.csproj": {
-              "projectPath": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerService\\Data.Entity\\Data.Entity.csproj"
+            "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerServiceGit\\Data.Entity\\Data.Entity.csproj": {
+              "projectPath": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerServiceGit\\Data.Entity\\Data.Entity.csproj"
             },
-            "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerService\\Data.Repository\\Data.Repository.csproj": {
-              "projectPath": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerService\\Data.Repository\\Data.Repository.csproj"
+            "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerServiceGit\\Data.Repository\\Data.Repository.csproj": {
+              "projectPath": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerServiceGit\\Data.Repository\\Data.Repository.csproj"
             }
           }
         }

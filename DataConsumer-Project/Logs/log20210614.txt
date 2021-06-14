@@ -32,3 +32,18 @@
 2021-06-14T12:18:22.1558346+04:30 [INF] (DataConsumer_Project.Worker) Data inserted into Redis at 06/14/2021 12:18:22.
 2021-06-14T12:18:27.1461646+04:30 [INF] (DataConsumer_Project.Worker) Data inserted into SQL at 06/14/2021 12:18:27.
 2021-06-14T12:18:27.1484701+04:30 [INF] (DataConsumer_Project.Worker) Data inserted into Redis at 06/14/2021 12:18:27.
+2021-06-14T12:56:02.9717876+04:30 [INF] () Starting up
+2021-06-14T12:56:03.4943709+04:30 [WRN] (DataConsumer_Project.Worker) Aplication DemoWorkerService started.
+2021-06-14T12:56:05.5597368+04:30 [INF] (DataConsumer_Project.Worker) Project started at 6/14/2021 12:56:05 PM
+2021-06-14T12:56:06.2137779+04:30 [INF] (DataConsumer_Project.Worker) Data inserted into SQL at 06/14/2021 12:56:06.
+2021-06-14T12:56:06.7499850+04:30 [INF] (DataConsumer_Project.Worker) Data inserted into Redis at 06/14/2021 12:56:06.
+2021-06-14T12:56:23.6139919+04:30 [INF] (DataConsumer_Project.Worker) Data inserted into SQL at 06/14/2021 12:56:23.
+2021-06-14T12:56:23.6172582+04:30 [INF] (DataConsumer_Project.Worker) Data inserted into Redis at 06/14/2021 12:56:23.
+2021-06-14T12:56:28.2277653+04:30 [INF] (DataConsumer_Project.Worker) Data inserted into SQL at 06/14/2021 12:56:28.
+2021-06-14T12:56:28.2298203+04:30 [INF] (DataConsumer_Project.Worker) Data inserted into Redis at 06/14/2021 12:56:28.
+2021-06-14T12:56:33.2466508+04:30 [INF] (DataConsumer_Project.Worker) Data inserted into SQL at 06/14/2021 12:56:33.
+2021-06-14T12:56:33.2495895+04:30 [INF] (DataConsumer_Project.Worker) Data inserted into Redis at 06/14/2021 12:56:33.
+2021-06-14T12:56:38.2194732+04:30 [INF] (DataConsumer_Project.Worker) Data inserted into SQL at 06/14/2021 12:56:38.
+2021-06-14T12:56:38.2218947+04:30 [INF] (DataConsumer_Project.Worker) Data inserted into Redis at 06/14/2021 12:56:38.
+2021-06-14T12:56:43.2183783+04:30 [INF] (DataConsumer_Project.Worker) Data inserted into SQL at 06/14/2021 12:56:43.
+2021-06-14T12:56:43.2209083+04:30 [INF] (DataConsumer_Project.Worker) Data inserted into Redis at 06/14/2021 12:56:43.

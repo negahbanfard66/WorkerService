@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "50oP5DQ3joFZnuo0elaP9EagNHwen+r40ch1xhKU1Q5R2MJ6zpiIMqnCdAG7eKnc01012BTywEIPRSJi+b9yCw==",
+  "dgSpecHash": "ihb4AcLeSWnD3pqN1WvZHikEh7kK+nhil/YKkC8rQ4kN/c7cU+lurns0cYBuWoM83+pE9hDxAr2+0jpKcJQSEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerService\\Data.Entity\\Data.Entity.csproj",
+  "projectFilePath": "C:\\Users\\Hannan-PC\\Source\\Repos\\WorkerServiceGit\\Data.Entity\\Data.Entity.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
