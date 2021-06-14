@@ -1,0 +1,11 @@
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Redis.CacheManager\bin\Debug\net5.0\Redis.CacheManager.deps.json
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Redis.CacheManager\bin\Debug\net5.0\Redis.CacheManager.dll
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Redis.CacheManager\bin\Debug\net5.0\ref\Redis.CacheManager.dll
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Redis.CacheManager\bin\Debug\net5.0\Redis.CacheManager.pdb
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Redis.CacheManager\obj\Debug\net5.0\Redis.CacheManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Redis.CacheManager\obj\Debug\net5.0\Redis.CacheManager.AssemblyInfoInputs.cache
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Redis.CacheManager\obj\Debug\net5.0\Redis.CacheManager.AssemblyInfo.cs
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Redis.CacheManager\obj\Debug\net5.0\Redis.CacheManager.csproj.CoreCompileInputs.cache
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Redis.CacheManager\obj\Debug\net5.0\Redis.CacheManager.dll
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Redis.CacheManager\obj\Debug\net5.0\ref\Redis.CacheManager.dll
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Redis.CacheManager\obj\Debug\net5.0\Redis.CacheManager.pdb

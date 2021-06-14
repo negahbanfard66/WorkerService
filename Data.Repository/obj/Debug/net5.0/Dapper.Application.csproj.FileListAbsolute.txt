@@ -1,0 +1,15 @@
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Dapper.Application\bin\Debug\net5.0\Dapper.Application.deps.json
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Dapper.Application\bin\Debug\net5.0\Dapper.Application.dll
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Dapper.Application\bin\Debug\net5.0\ref\Dapper.Application.dll
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Dapper.Application\bin\Debug\net5.0\Dapper.Application.pdb
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Dapper.Application\bin\Debug\net5.0\Dapper.Core.dll
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Dapper.Application\bin\Debug\net5.0\Dapper.Core.pdb
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Dapper.Application\obj\Debug\net5.0\Dapper.Application.csproj.AssemblyReference.cache
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Dapper.Application\obj\Debug\net5.0\Dapper.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Dapper.Application\obj\Debug\net5.0\Dapper.Application.AssemblyInfoInputs.cache
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Dapper.Application\obj\Debug\net5.0\Dapper.Application.AssemblyInfo.cs
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Dapper.Application\obj\Debug\net5.0\Dapper.Application.csproj.CoreCompileInputs.cache
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Dapper.Application\obj\Debug\net5.0\Dapper.Application.csproj.CopyComplete
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Dapper.Application\obj\Debug\net5.0\Dapper.Application.dll
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Dapper.Application\obj\Debug\net5.0\ref\Dapper.Application.dll
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Dapper.Application\obj\Debug\net5.0\Dapper.Application.pdb

@@ -1,0 +1,17 @@
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Dapper.Infrastructure\bin\Debug\net5.0\Data.Infrastructure.deps.json
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Dapper.Infrastructure\bin\Debug\net5.0\Data.Infrastructure.dll
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Dapper.Infrastructure\bin\Debug\net5.0\ref\Data.Infrastructure.dll
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Dapper.Infrastructure\bin\Debug\net5.0\Data.Infrastructure.pdb
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Dapper.Infrastructure\bin\Debug\net5.0\Data.Application.dll
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Dapper.Infrastructure\bin\Debug\net5.0\Data.Core.dll
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Dapper.Infrastructure\bin\Debug\net5.0\Data.Application.pdb
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Dapper.Infrastructure\bin\Debug\net5.0\Data.Core.pdb
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Dapper.Infrastructure\obj\Debug\net5.0\Data.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Dapper.Infrastructure\obj\Debug\net5.0\Data.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Dapper.Infrastructure\obj\Debug\net5.0\Data.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Dapper.Infrastructure\obj\Debug\net5.0\Data.Infrastructure.AssemblyInfo.cs
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Dapper.Infrastructure\obj\Debug\net5.0\Data.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Dapper.Infrastructure\obj\Debug\net5.0\Data.Infrastructure.csproj.CopyComplete
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Dapper.Infrastructure\obj\Debug\net5.0\Data.Infrastructure.dll
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Dapper.Infrastructure\obj\Debug\net5.0\ref\Data.Infrastructure.dll
+C:\Users\Hannan-PC\Source\Repos\DataConsumer-Project\Dapper.Infrastructure\obj\Debug\net5.0\Data.Infrastructure.pdb

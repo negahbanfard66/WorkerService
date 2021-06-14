@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Dapper.Application/1.0.0": {
+        "dependencies": {
+          "Dapper.Core": "1.0.0"
+        },
+        "runtime": {
+          "Dapper.Application.dll": {}
+        }
+      },
+      "Dapper.Core/1.0.0": {
+        "runtime": {
+          "Dapper.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dapper.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dapper.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
